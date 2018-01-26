@@ -207,6 +207,7 @@ Scanner scanner = new Scanner(System.in);
                 } else {
                     countArmyDefend -= 1;
                 }
+                // commeent added
                 System.out.println("Run " + i);
                 System.out.println("Dice Attacker " + attack1 + " " + attack2);
                 System.out.println("Dice Defender " + defend1);
